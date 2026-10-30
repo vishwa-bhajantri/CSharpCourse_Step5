@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="ProjectA/ProjectA.csproj" />
-  <Project Path="ProjectB/ProjectB.csproj" />
+  <Project Path="D:/MISARD/C#/CSharpCourse_Step5/ProjectA/ProjectA.csproj" Id="bcf4b75a-6604-41a3-b28b-712cca23351f" />
+  <Project Path="D:/MISARD/C#/CSharpCourse_Step5/ProjectB/ProjectB.csproj" Id="57fbe1af-a410-44a6-ad14-5a1cc21a6b64" />
 </Solution>

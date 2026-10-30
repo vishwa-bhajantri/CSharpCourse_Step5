@@ -1,12 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjectA
 {
-    internal class ClassA
+    class ClassA
     {
+        private string privateVar = "Private : only Accessable within the class";
+
+        void DisplayClassMembers()
+        {
+            Console.WriteLine(privateVar);
+            Console.ReadLine();
+        }
+
+        static void Main()
+        {
+            ClassA a = new ClassA();
+            a.DisplayClassMembers();
+        }
     }
+
 }
